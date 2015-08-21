@@ -1,13 +1,14 @@
 [
-	{ "key": "ctrl+9",                "command": "editor.action.jumpToBracket",
+	{ "key": "ctrl+9",               "command": "editor.action.jumpToBracket",
                                      "when": "editorTextFocus" },
     { "key": "alt+shift+e",          "command": "editor.action.previewDeclaration",
                                      "when": "editorTextFocus" },
     { "key": "alt+e",                "command": "editor.action.goToDeclaration",
                                      "when": "editorTextFocus" },
     { "key": "alt+r",                "command": "editor.action.goToTypeDeclaration" },
-    { "key": "ctrl+r",                "command": "workbench.action.gotoSymbol" },
-    { "key": "shift+ctrl+g",          "command": "workbench.view.git" },
+    { "key": "ctrl+r",               "command": "workbench.action.gotoSymbol" },
+    { "key": "shift+ctrl+g",         "command": "workbench.view.git" },
+    { "key": "ctrl+k ctrl+b",        "command": "workbench.action.toggleSidebarVisibility" },
     
 	
     // CTRL + i, j, k, l same functionality as arrow keys
