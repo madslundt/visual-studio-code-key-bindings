@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<root>
+	<item>
+		<name>Capslock IJKL</name>
+		<identifier>caps.ijkl</identifier>
+		<autogen>
+			__KeyToKey__
+			KeyCode::I, ModifierFlag::FN,
+			KeyCode::CURSOR_UP
+		</autogen>
+		<autogen>
+			__KeyToKey__
+			KeyCode::J, ModifierFlag::FN,
+			KeyCode::CURSOR_LEFT
+		</autogen>
+		<autogen>
+			__KeyToKey__
+			KeyCode::K, ModifierFlag::FN,
+			KeyCode::CURSOR_DOWN
+		</autogen>
+		<autogen>
+			__KeyToKey__
+			KeyCode::L, ModifierFlag::FN,
+			KeyCode::CURSOR_RIGHT
+		</autogen>
+        <autogen>
+            __KeyToKey__
+            KeyCode::U, ModifierFlag::FN | ModifierFlag::COMMAND_L,
+            KeyCode::CURSOR_UP, ModifierFlag::COMMAND_L
+        </autogen>
+        <autogen>
+            __KeyToKey__
+            KeyCode::O, ModifierFlag::FN | ModifierFlag::COMMAND_L,
+            KeyCode::CURSOR_DOWN, ModifierFlag::COMMAND_L
+        </autogen>
+        <autogen>
+            __KeyToKey__
+            KeyCode::U, ModifierFlag::FN,
+            KeyCode::CURSOR_LEFT, ModifierFlag::COMMAND_L
+        </autogen>
+        <autogen>
+            __KeyToKey__
+            KeyCode::O, ModifierFlag::FN,
+            KeyCode::CURSOR_RIGHT, ModifierFlag::COMMAND_L
+        </autogen>
+	</item>
+    <item>
+        <name>Left Option IK</name>
+        <identifier>alt.ik</identifier>
+        <autogen>
+            __KeyToKey__
+            KeyCode::I, ModifierFlag::OPTION_L,
+            KeyCode::PAGEUP
+        </autogen>
+        <autogen>
+            __KeyToKey__
+            KeyCode::K, ModifierFlag::OPTION_L,
+            KeyCode::PAGEDOWN
+        </autogen>
+    </item>
+</root>
