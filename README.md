@@ -4,7 +4,7 @@ OSX
 ===
 `private.xml` is my xml file for [Karabiner](https://pqrs.org/osx/karabiner/). This file allow me to use FN + ijkl for arrow keys.
 
-By installing [Seil](https://pqrs.org/osx/karabiner/seil.html.en) it can set Capslock to also be your FN key. The cool thing here is that I can use my (before useless Capslock key) to control the cursor by holding Capslock + ijkl.
+By installing [Seil](https://pqrs.org/osx/karabiner/seil.html.en) it can set Capslock to also be your FN key. The cool thing here is that I can use my, before useless, Capslock key to control the cursor by holding Capslock + ijkl.
 
 All this means faster typing cause I do not have to move my hand to the arrow keys any longer.
 
