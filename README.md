@@ -8,6 +8,8 @@ By installing [Seil](https://pqrs.org/osx/karabiner/seil.html.en) it can set Cap
 
 All this means faster typing cause I do not have to move my hand to the arrow keys any longer.
 
+I also added Capslock + {U, O} for Home and End, and Alt + {I, K} for PageUp and PageDown.
+
 LINUX
 =====
 Sadly Karabiner is only for OSX, but there are tools for Linux.
