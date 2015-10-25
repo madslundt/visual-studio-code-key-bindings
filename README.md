@@ -16,7 +16,8 @@ Sadly Karabiner is only for OSX, but there are tools for Linux.
 For Linux I've been using [Autokey](https://apps.ubuntu.com/cat/applications/precise/autokey-gtk/), which is not nearly as good as Karabiner, but it gets the job done.
 
 In Karabiner it was only necessary to bind the basic up, left, down and right functionality and the more advanced (ex. shift + left) were automatically binded too.
-
 In Autokey you have to bind the basic and the advanced settings.
+
+`autokey_keybindings` folder should contain all the hotkeys to do the same bindings as in Karabiner.
 
 I am using Gnome on Linux and by using the Gnome utility, it can bind Hyper (FN key) to the Capslock.
