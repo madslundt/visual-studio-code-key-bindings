@@ -23,6 +23,10 @@
 			KeyCode::L, ModifierFlag::FN,
 			KeyCode::CURSOR_RIGHT
 		</autogen>
+    </item>
+    <item>
+		<name>Capslock UO</name>
+		<identifier>caps.uo</identifier>
         <autogen>
             __KeyToKey__
             KeyCode::U, ModifierFlag::FN | ModifierFlag::COMMAND_L,
