@@ -16,8 +16,6 @@ After the installation copy the following files from this repository:
  * `hammerspoon/*` to `~/.hammerspoon/`
  * `karabiner-elements/configuration/karabiner.json` to `~/.karabiner.d/configuration/karabiner.json`
 
-At last open **Karabiner-Elements** and go to the **Simple Modifications** tab. Set **From key** to caps_lock and **To key** to left_control.
-
 This add `Capslock + {I, J, K, L}` for arrow keys, `Capslock + {U, O}` for Home and End and `Alt + {I, K}` for PageUp and PageDown.
 
 ## Bonus:: Adjusting windows (inspired by [Miro's Hammerspoon config](https://github.com/miromannino/hammerspoon-config))
